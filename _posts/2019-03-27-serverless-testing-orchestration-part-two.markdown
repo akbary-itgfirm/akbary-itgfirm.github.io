@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Testing Orchestration: a Serverless Microservice Case Study Part Two"
-date:   2019-03-26 11:09:00 -0400
+date:   2019-03-27 11:09:00 -0400
 categories: ["serverless"]
 tags: ["serverless", "cucumber", "selenium", "testing"]
 ---
